@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample2.7", "Sample2.7.vcxproj", "{5E42B091-3716-43FC-8D43-2140BC0AD829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E42B091-3716-43FC-8D43-2140BC0AD829}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E42B091-3716-43FC-8D43-2140BC0AD829}.Debug|Win32.Build.0 = Debug|Win32
+		{5E42B091-3716-43FC-8D43-2140BC0AD829}.Release|Win32.ActiveCfg = Release|Win32
+		{5E42B091-3716-43FC-8D43-2140BC0AD829}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
